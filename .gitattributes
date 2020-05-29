@@ -1,0 +1,3 @@
+*.html linguist-language=Nim 
+*.js linguist-language=Nim 
+*.css linguist-language=Nim 
